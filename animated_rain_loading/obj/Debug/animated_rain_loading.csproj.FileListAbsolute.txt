@@ -1,0 +1,21 @@
+E:\My Lab\C#\_CodeFlow\new_vid\animated_rain_loading\animated_rain_loading\bin\Debug\animated_rain_loading.exe.config
+E:\My Lab\C#\_CodeFlow\new_vid\animated_rain_loading\animated_rain_loading\bin\Debug\animated_rain_loading.exe
+E:\My Lab\C#\_CodeFlow\new_vid\animated_rain_loading\animated_rain_loading\bin\Debug\animated_rain_loading.pdb
+E:\My Lab\C#\_CodeFlow\new_vid\animated_rain_loading\animated_rain_loading\obj\Debug\animated_rain_loading.csprojAssemblyReference.cache
+E:\My Lab\C#\_CodeFlow\new_vid\animated_rain_loading\animated_rain_loading\obj\Debug\animated_rain_loading.Form1.resources
+E:\My Lab\C#\_CodeFlow\new_vid\animated_rain_loading\animated_rain_loading\obj\Debug\animated_rain_loading.Properties.Resources.resources
+E:\My Lab\C#\_CodeFlow\new_vid\animated_rain_loading\animated_rain_loading\obj\Debug\animated_rain_loading.csproj.GenerateResource.cache
+E:\My Lab\C#\_CodeFlow\new_vid\animated_rain_loading\animated_rain_loading\obj\Debug\animated_rain_loading.csproj.CoreCompileInputs.cache
+E:\My Lab\C#\_CodeFlow\new_vid\animated_rain_loading\animated_rain_loading\obj\Debug\animated_rain_loading.exe
+E:\My Lab\C#\_CodeFlow\new_vid\animated_rain_loading\animated_rain_loading\obj\Debug\animated_rain_loading.pdb
+D:\animated-rain-loading-form-master\animated_rain_loading\bin\Debug\animated_rain_loading.exe.config
+D:\animated-rain-loading-form-master\animated_rain_loading\bin\Debug\animated_rain_loading.exe
+D:\animated-rain-loading-form-master\animated_rain_loading\bin\Debug\animated_rain_loading.pdb
+D:\animated-rain-loading-form-master\animated_rain_loading\obj\Debug\animated_rain_loading.csproj.AssemblyReference.cache
+D:\animated-rain-loading-form-master\animated_rain_loading\obj\Debug\animated_rain_loading.csproj.SuggestedBindingRedirects.cache
+D:\animated-rain-loading-form-master\animated_rain_loading\obj\Debug\animated_rain_loading.Form1.resources
+D:\animated-rain-loading-form-master\animated_rain_loading\obj\Debug\animated_rain_loading.Properties.Resources.resources
+D:\animated-rain-loading-form-master\animated_rain_loading\obj\Debug\animated_rain_loading.csproj.GenerateResource.cache
+D:\animated-rain-loading-form-master\animated_rain_loading\obj\Debug\animated_rain_loading.csproj.CoreCompileInputs.cache
+D:\animated-rain-loading-form-master\animated_rain_loading\obj\Debug\animated_rain_loading.exe
+D:\animated-rain-loading-form-master\animated_rain_loading\obj\Debug\animated_rain_loading.pdb
